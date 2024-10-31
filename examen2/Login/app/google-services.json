@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293545497565",
+    "project_id": "chatkotlin-739e3",
+    "storage_bucket": "chatkotlin-739e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293545497565:android:6815e5d444e268b1fedc34",
+        "android_client_info": {
+          "package_name": "com.example.chatexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zPOA06S9qkPjFxENSqsgiEHcvf4hU0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

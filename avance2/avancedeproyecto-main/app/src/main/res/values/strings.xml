@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatExample</string>
+    <string name="item_profile">PERFIL</string>
+    <string name="item_users">OFERTAS</string>
+    <string name="item_chats">FORO</string>
+    <string name="tv_title">BOLSA DE TRABAJO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
